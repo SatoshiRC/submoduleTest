@@ -1,0 +1,3 @@
+[submodule "xbee3.0-api"]
+	path = xbee3.0-api
+	url = https://gitlab.com/grcc/library/xbee3.0-api.git
